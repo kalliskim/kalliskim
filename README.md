@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kalliskim
 - 👀 I’m interested in Python, CI, Visualization
-- 🌱 I’m currently learning CI
 - 💞️ I’m looking to collaborate on cool Python stuff
 - 📫 How to reach me https://www.linkedin.com/in/marckalliski/
 
